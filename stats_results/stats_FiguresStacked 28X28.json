@@ -1,0 +1,15 @@
+{
+    "mean": [
+        0.671337902545929
+    ],
+    "std": [
+        0.3809155225753784
+    ],
+    "args": {
+        "images_folder": "./Topographies/raw/FiguresStacked 28X28",
+        "label_path": "./biology_data/TopoChip/AeruginosaWithClass.csv",
+        "image_type": "png",
+        "image_size": 224,
+        "batch_size": 2200
+    }
+}
